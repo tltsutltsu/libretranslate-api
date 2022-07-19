@@ -1,8 +1,10 @@
-# LibreTranslate
+# LibreTranslate (NPM)
 
-[LibreTranslate](https://libretranslate.com/)
+[Original API](https://libretranslate.com/)
 
 Simple NPM package for interaction with LibreTranslate API, for those who want a open-source alternative to Google Translate, supports self-hosted versions.
+
+**NOTICE: This is not official, I only created it for simple interaction with LibreTranslate, through NPM**
 
 ## Installation
 
