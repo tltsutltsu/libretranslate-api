@@ -4,6 +4,8 @@
 
 Simple NPM package for interaction with LibreTranslate API, for those who want a open-source alternative to Google Translate, supports self-hosted versions.
 
+**NOTICE: This is not official, I only created it for simple interaction with LibreTranslate, through NPM**
+
 ## Installation
 
 **Node.js v17.5.0 or newer with fetch is required.**
