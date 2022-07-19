@@ -2,7 +2,8 @@
   "name": "libretranslate",
   "version": "1.0.0",
   "description": "Simple NPM module for translating with LibreTranslate.",
-  "main": "src/translate.ts",
+  "main": "dist/translate.js",
+  "types": "dist/translate.d.ts",
   "scripts": {
     "build": "tsc"
   },

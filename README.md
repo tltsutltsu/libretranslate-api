@@ -22,7 +22,7 @@ yarn add libretranslate
 
 ```js
 // CommonJS
-const translate = require('libretranslate');
+const { translate } = require('libretranslate');
 
 // ES Modules (ESM) or Typescript
 import { translate } from 'libretranslate';
