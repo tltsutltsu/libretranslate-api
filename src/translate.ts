@@ -1,3 +1,5 @@
+const fetch = require('node-fetch-polyfill');
+
 interface TranslateOptions {
     query: string;
     source?: string;
