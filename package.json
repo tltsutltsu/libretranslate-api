@@ -23,6 +23,7 @@
   "homepage": "https://github.com/PugDEV-hub/LibreTranslate#readme",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "typescript": "^4.7.4"
+    "typescript": "^4.7.4",
+    "node-fetch-polyfill": "^2.0.6"
   }
 }
