@@ -1,6 +1,6 @@
 {
-  "name": "libretranslate",
-  "version": "1.0.0",
+  "name": "libretranslate-api",
+  "version": "1.0.1",
   "description": "Simple API wrapper for LibreTranslate",
   "main": "dist/translate.js",
   "types": "dist/translate.d.ts",
